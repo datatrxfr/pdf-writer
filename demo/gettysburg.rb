@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: gettysburg.rb 96 2005-06-15 21:38:38Z austin $
 #++
 begin
   require 'pdf/writer'

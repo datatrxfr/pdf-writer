@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: ohash.rb 50 2005-05-16 03:59:21Z austin $
 #++
   # Based on [ruby-talk:20551]. Updated to (hopefully) be 1.8 friendly.
 class PDF::Writer::OHash < Hash

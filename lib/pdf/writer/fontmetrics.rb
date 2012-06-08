@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: fontmetrics.rb 168 2007-11-08 19:04:08Z sandal $
 #++
 
 class PDF::Writer::FontMetrics

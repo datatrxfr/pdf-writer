@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: simpletable.rb 186 2007-12-10 22:58:48Z sandal $
 #++
 require 'pdf/writer'
 require 'transaction/simple/group'

@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: fontdescriptor.rb 198 2008-03-03 15:26:31Z jh $
 #++
   # A font descriptor, needed for including additional fonts. +options+ is a
   # Hash with one of the following keys: Ascent, CapHeight, Descent, Flags,

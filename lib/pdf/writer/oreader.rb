@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: oreader.rb 50 2005-05-16 03:59:21Z austin $
 #++
 module PDF::Writer::OffsetReader
   def read_o(length = 1, offset = nil)

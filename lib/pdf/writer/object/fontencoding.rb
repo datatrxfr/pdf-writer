@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: fontencoding.rb 101 2005-06-28 21:32:17Z austin $
 #++
   # The font encoding
 class PDF::Writer::Object::FontEncoding < PDF::Writer::Object

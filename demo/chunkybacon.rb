@@ -10,7 +10,7 @@
 #   and are from "Why's (Poignant) Guide to Ruby" at
 #   <http://poignantguide.net/ruby> with permission.
 #
-# $Id$
+# $Id: chunkybacon.rb 117 2005-07-01 16:48:26Z austin $
 #++
 begin
   require 'pdf/writer'

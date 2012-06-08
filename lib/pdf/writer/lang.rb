@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: lang.rb 57 2005-05-18 11:57:58Z austin $
 #++
 
 module PDF::Writer::Lang

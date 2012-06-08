@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: object.rb 66 2005-05-25 11:19:50Z austin $
 #++
 class PDF::Writer::Object
   def initialize(parent)

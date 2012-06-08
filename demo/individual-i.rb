@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: individual-i.rb 92 2005-06-13 19:32:37Z austin $
 #++
 begin
   require 'pdf/writer'

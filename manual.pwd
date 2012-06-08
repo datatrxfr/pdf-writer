@@ -5960,6 +5960,6 @@ pdf.stop_page_numbering(true, :current)
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: manual.pwd 196 2008-01-04 23:15:50Z sandal $
 # vim: sts=2 sw=2 ts=4 et ai tw=77 foldmethod=marker foldcolumn=2
 #++

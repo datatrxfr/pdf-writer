@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: font.rb 198 2008-03-03 15:26:31Z jh $
 #++
   # An object to hold the font description
 class PDF::Writer::Object::Font < PDF::Writer::Object

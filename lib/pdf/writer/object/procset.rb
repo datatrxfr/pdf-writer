@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: procset.rb 50 2005-05-16 03:59:21Z austin $
 #++
   # The document Procedure Set. Not necessary in PDF 1.4 or later, but
   # producing applications are recommended to provide the /ProcSet /Resource

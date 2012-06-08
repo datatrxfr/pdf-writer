@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: action.rb 188 2007-12-11 07:14:58Z sandal $
 #++
   # An action object, used to link to URLS initially
 class PDF::Writer::Object::Action < PDF::Writer::Object

@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: graphics.rb 166 2007-11-08 18:22:05Z sandal $
 #++
   # Points for use in the drawing of polygons.
 class PDF::Writer::PolygonPoint

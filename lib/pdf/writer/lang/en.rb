@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: en.rb 134 2005-08-25 03:38:06Z austin $
 #++
   # PDF::Writer::Lang::EN is the English-language output module. It contains a
   # hash, @message, that contains the messages that may be reported by any

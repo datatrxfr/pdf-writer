@@ -7,7 +7,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: techbook.rb 134 2005-08-25 03:38:06Z austin $
 #++
 require 'pdf/simpletable'
 require 'pdf/charts/stddev'

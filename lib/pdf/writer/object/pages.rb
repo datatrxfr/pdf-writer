@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: pages.rb 50 2005-05-16 03:59:21Z austin $
 #++
   # object which is a parent to the pages in the document
 class PDF::Writer::Object::Pages < PDF::Writer::Object

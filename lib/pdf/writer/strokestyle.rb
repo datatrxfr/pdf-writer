@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: strokestyle.rb 75 2005-06-02 21:20:35Z austin $
 #++
   # A class that represents a style with which lines will be drawn. 
 class PDF::Writer::StrokeStyle

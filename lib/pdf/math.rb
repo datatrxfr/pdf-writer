@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: math.rb 52 2005-05-16 20:44:34Z austin $
 #++
   # Encapsulate some of the mathematical calculations that need to be
   # performed when working with PDF documents. All angles in PDF::Writer are

@@ -11,7 +11,7 @@
 # I'll need to play with the X position some to get it right. This will NOT
 # make it into the 1.0 release. Maybe 1.1 or 1.2.
 #
-# $Id$
+# $Id: code.rb 92 2005-06-13 19:32:37Z austin $
 #++
 begin
   require 'pdf/writer'

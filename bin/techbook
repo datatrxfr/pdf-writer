@@ -7,7 +7,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: techbook 93 2005-06-13 20:03:53Z austin $
 #++
 begin
   require 'pdf/techbook'

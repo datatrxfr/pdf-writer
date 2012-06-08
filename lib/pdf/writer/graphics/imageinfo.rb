@@ -9,7 +9,7 @@
 #   This file is also licensed under standard Ruby licensing provisions: the
 #   Ruby licence and the GNU General Public Licence, version 2 or later.
 #
-# $Id$
+# $Id: imageinfo.rb 173 2007-11-15 17:58:43Z sandal $
 #++
 require 'pdf/writer/oreader'
 

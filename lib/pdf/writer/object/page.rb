@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: page.rb 75 2005-06-02 21:20:35Z austin $
 #++
   # A page object, it also creates a contents object to hold its contents
 class PDF::Writer::Object::Page < PDF::Writer::Object

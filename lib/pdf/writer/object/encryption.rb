@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: encryption.rb 50 2005-05-16 03:59:21Z austin $
 #++
   # Encryption object
 class PDF::Writer::Object::Encryption < PDF::Writer::Object

@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: info.rb 177 2007-11-26 16:06:58Z sandal $
 #++
   # Define the document information -- metadata.
 class PDF::Writer::Object::Info < PDF::Writer::Object

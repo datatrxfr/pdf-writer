@@ -10,7 +10,7 @@
 #
 #   See LICENCE in the main distribution for full licensing information.
 #
-# $Id$
+# $Id: qr-library.rb 104 2005-06-29 03:12:11Z austin $
 #++
 begin
   require 'pdf/writer'

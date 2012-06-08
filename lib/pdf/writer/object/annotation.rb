@@ -6,7 +6,7 @@
 #   Licensed under a MIT-style licence. See LICENCE in the main distribution
 #   for full licensing information.
 #
-# $Id$
+# $Id: annotation.rb 50 2005-05-16 03:59:21Z austin $
 #++
   # An annotation object, this will add an annotation to the current page.
   # initially will support just link annotations.
