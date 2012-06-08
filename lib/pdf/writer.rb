@@ -2372,41 +2372,43 @@ class PDF::Writer
       height = font_height(size)
     end
 
-    text.each do |line|
-      start = true
-      loop do # while not line.empty? or start
-        break if (line.nil? or line.empty?) and not start
+    unless text == nil
+      text.each do |line|
+        start = true
+        loop do # while not line.empty? or start
+          break if (line.nil? or line.empty?) and not start
 
-        start = false
+          start = false
 
-        @y -= height
+          @y -= height
 
-        if @y < @bottom_margin
-          if options[:test]
-            new_page_required = true
-          else
-              # and then re-calc the left and right, in case they have
-              # changed due to columns
-            start_new_page
-            @y -= height
-
-            if options[:absolute_left]
-              left = options[:absolute_left]
+          if @y < @bottom_margin
+            if options[:test]
+              new_page_required = true
             else
-              left = @left_margin
-              left += options[:left] if options[:left]
-            end
+                # and then re-calc the left and right, in case they have
+                # changed due to columns
+              start_new_page
+              @y -= height
 
-            if options[:absolute_right]
-              right = options[:absolute_right]
-            else
-              right = absolute_right_margin
-              right -= options[:right] if options[:right]
+              if options[:absolute_left]
+                left = options[:absolute_left]
+              else
+                left = @left_margin
+                left += options[:left] if options[:left]
+              end
+
+              if options[:absolute_right]
+                right = options[:absolute_right]
+              else
+                right = absolute_right_margin
+                right -= options[:right] if options[:right]
+              end
             end
           end
-        end
 
-        line = add_text_wrap(left, @y, right - left, line, size, just, 0, options[:test])
+          line = add_text_wrap(left, @y, right - left, line, size, just, 0, options[:test])
+        end
       end
     end
 
